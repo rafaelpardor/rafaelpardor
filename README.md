@@ -3,8 +3,9 @@
 * Software Developer
 * Hacker
 
-Learned a lot by reading the internet, and just 
-playing around. Always interested in learning new things and technologies.
+Learned a lot by reading the internet, and by building laboratory
+environments to understand how the tools I use work. Always interested
+in learning new things and technologies.
 
 ## Tools I love and work with
 
