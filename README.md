@@ -1,8 +1,6 @@
 # Rafael Pardo R
 
 * Software Developer
-* Hacker
-  * *Being a hacker is a mind-set. Hackers figure things out, they make things work.*
 
 Learned a lot by reading the internet, and by building laboratory
 environments to understand how the tools I use work. Always interested
